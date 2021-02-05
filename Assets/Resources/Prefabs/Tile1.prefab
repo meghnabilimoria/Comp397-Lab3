@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6749111449386582303}
   - component: {fileID: 26470125447814076}
   m_Layer: 3
-  m_Name: Tile
+  m_Name: Tile1
   m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
